@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @kavin
-- 👀 I’m interested in learning technology
-- 🌱 I’m studying masters in data science in teesside university
-- 📫 you can reach me in linkdin https://www.linkedin.com/in/kavinilavan-muthukumar-209800158/
+- 👋 Hi, I’m Kavin  
+- 💼 BI Developer at Newcastle City Council  
+- 🎓 Completed my MSc in Data Science at Teesside University  
+- 🛠️ I work mostly on data engineering, ETL pipelines, and reporting  
+- 🤖 I enjoy experimenting with AI and building small side projects  
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/kavinilavan-muthukumar-209800158/
 
 <!---
 kavinilavanM/kavinilavanM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
